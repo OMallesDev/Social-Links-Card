@@ -66,5 +66,6 @@ p {
 @media screen and (width < 600px) {
     .social-card {
         width: 90%;
+        overflow-x: hidden;
     }
 }
