@@ -23,7 +23,8 @@ Users should be able to:
 
 ### Screenshot
 
-![Screenshot_7-7-2025_135346_omallesdev github io](https://github.com/user-attachments/assets/520cefcc-f606-44d9-8b2d-9f57a1ceceec)
+
+![linkcardscreenshot](https://github.com/user-attachments/assets/3bcae8f0-7148-43b7-b1c2-f0034d898251)
 
 
 ### Links
