@@ -19,6 +19,7 @@ a {
     color: white;
 }
 .social-card {
+    position: relative;
     background-color: hsl(0, 0%, 12%);
     margin: 0 auto;
     text-align: center;
@@ -63,11 +64,11 @@ p {
     color: hsl(0, 0%, 20%);
 }
 
-@media screen and (width<600px) {
+@media screen and (width < 600px) {
     body {
         padding: 1rem;
     }
     .social-card {
-        width: 80%;
+        width: 90%;
     }
 }
