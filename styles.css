@@ -65,7 +65,7 @@ p {
 
 @media screen and (width<600px) {
     body {
-        padding: 10rem;
+        padding: 1rem;
     }
     .social-card {
         width: 80%;
