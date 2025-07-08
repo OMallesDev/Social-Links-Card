@@ -23,7 +23,9 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+
+![linkcardscreenshot](https://github.com/user-attachments/assets/3bcae8f0-7148-43b7-b1c2-f0034d898251)
+
 
 ### Links
 
