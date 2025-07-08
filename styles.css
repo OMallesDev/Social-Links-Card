@@ -58,12 +58,12 @@ p {
 }
 
 
-.link:hover {
+.link:hover, .link:focus {
     background-color: hsl(75, 94%, 57%);
     color: hsl(0, 0%, 20%);
 }
 
-@media screen and (width < 400px) {
+@media screen and (width < 600px) {
     .social-card {
         width: 90%;
     }
